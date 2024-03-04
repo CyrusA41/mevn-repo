@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 // Replace <password> with your MongoDB Atlas password
 
-const mongoURI = 'mongodb+srv://cyrus2541:geeeyej70physics@cyrusics4u.f3ehg78.mongodb.net/?retryWrites=true&w=majority&appName=cyrusics4u'
+const mongoURI = 'mongodb+srv://admin:I2DviaBkL7sr4I9S@cyrusics4u.f3ehg78.mongodb.net?retryWrites=true&w=majority`'
 
   const connectToMongoDB = async (uri) => {
     try {
